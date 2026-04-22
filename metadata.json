@@ -1,0 +1,6 @@
+{
+  "name": "SteganoScan Forensics",
+  "description": "Advanced image steganography decrypter and forensics tool for detecting hidden messages and images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
